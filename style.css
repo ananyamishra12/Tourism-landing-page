@@ -35,7 +35,6 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
-    z-index:0;
     animation: animate 22s ease-in infinite;
 }
 @keyframes animate{
